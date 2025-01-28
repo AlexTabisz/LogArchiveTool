@@ -1,3 +1,4 @@
+Project URL: https://roadmap.sh/projects/log-archive-tool
 Log Archive Tool project from roadmap.sh
 
 This is how to build and use this tool
@@ -25,3 +26,5 @@ This is how to build and use this tool
 	
 	- Export run_path_script (avoid exposing your username/path)
 		- export run_path_script="/full/path/to/your/script"
+
+![Alt text](https://github.com/AlexTabisz/LogArchiveTool/blob/main/file.png)
