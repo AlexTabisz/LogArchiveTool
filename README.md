@@ -26,3 +26,5 @@ This is how to build and use this tool
 	
 	- Export run_path_script (avoid exposing your username/path)
 		- export run_path_script="/full/path/to/your/script"
+
+![image](https://github.com/AlexTabisz/LogArchiveTool/blob/main/file.png?raw=true)
